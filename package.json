@@ -1,0 +1,11 @@
+{
+  "name": "geotweets",
+  "version": "1.0.0",
+  "description": "Get geographical information from tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Jimenez Bernal - Iliberi S.A.",
+  "license": "ISC"
+}
