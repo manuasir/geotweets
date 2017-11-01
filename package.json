@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Manuel Jimenez Bernal - Iliberi S.A.",
-  "license": "ISC"
+  "author": "Manuel Jimenez Bernal",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.12.5",
+    "twit": "^2.2.9"
+  }
 }
