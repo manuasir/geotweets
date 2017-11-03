@@ -6,14 +6,12 @@ const Schema = mongoose.Schema
  */
 const Twit = new Schema({
   createdAt: {
-    type: String,
+    type: String
   },
   text: {
-    type: String,
+    type: String
   },
-  place: {
-  	type: Object
-  }
+  place: { type: Object }
 })
 
 module.exports = mongoose.model('twit', Twit)
