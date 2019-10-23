@@ -9,7 +9,7 @@
   "author": "Manuel Jimenez Bernal",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^4.12.5",
+    "mongoose": "^5.7.6",
     "twit": "^2.2.9"
   }
 }
